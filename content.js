@@ -62,5 +62,7 @@ var doTheReplacement = function () {
 		}
 	}
 }
+// created all variables we need 
 
+// added function to call 
 doTheReplacement();
