@@ -4,7 +4,7 @@ var getMappings = function () {
 	return {
 		"fsu": ["fsu sucks!", "fsu < uf"],
 		"seminoles": ["people who didn't get into UF", "semi_NULLS"],
-		"florida state university": ["Florida State Community College"],
+		"florida state university": ["Florida State Community College", "Florida High School"],
 		"academics": ["\"academics\""],
 		"football": ["crab lovers"]
 	};
